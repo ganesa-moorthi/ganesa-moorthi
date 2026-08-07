@@ -199,7 +199,7 @@ An interactive learning application that generates educational topics and suppor
 
 #### Technologies
 
-`React` `Node.js` `Python` `OpenAI API` `WebSockets` `MySQL`
+`WordPress` `PHP` `MySQL` `React` `Node.js` `OpenAI API` `WebSockets` `MySQL`
 
 #### Highlights
 
