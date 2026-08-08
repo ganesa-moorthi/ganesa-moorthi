@@ -46,6 +46,7 @@ My main experience includes:
 
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
+![wordpress](https://img.shields.io/badge/wordpress-000?style=for-the-badge&logo=wordpress)
 ![Redux](https://img.shields.io/badge/Redux_Toolkit-000?style=for-the-badge&logo=redux)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000?style=for-the-badge&logo=tailwindcss)
 
